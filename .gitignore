@@ -1,0 +1,7 @@
+# IntelliJ
+.idea/
+
+# Node
+node_modules/
+dist/
+.env
